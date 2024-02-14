@@ -1,4 +1,8 @@
-# Authors
+# App for simulating echo chambers creation
+
+Three-module application (Backend, Frontend and Databse) that allows the user to simulate the formation of echo chambers among a community centered on a certain social media service. An engineering thesis that was created in a team, using SCRUM, between October 2021 and January 2022 in Warsaw University of Technology - Faculty of Math and Information Science.
+
+## Authors
 
 
 * Paweł Frąckiewicz
